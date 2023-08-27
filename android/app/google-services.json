@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "181139355134",
+    "firebase_url": "https://practice-app-5b2cb-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "practice-app-5b2cb",
+    "storage_bucket": "practice-app-5b2cb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:181139355134:android:9d39b45864517b1ccebcaf",
+        "android_client_info": {
+          "package_name": "com.example.second"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "181139355134-crrujff366kpn5l6jfla35anlmm5kc2m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5AlL25-mWQYvZA5jAPkHYy2Ieig5IwWc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "181139355134-crrujff366kpn5l6jfla35anlmm5kc2m.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "181139355134-1f97s8vjlqcat1sb49jl2lh1ptevhkuq.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.second2555"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
